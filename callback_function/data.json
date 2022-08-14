@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "ignasius",
+        "nim": "191011450014",
+        "email": "riandroraul@gmail.com",
+        "kelas": "05TPLE001",
+        "jurusan": "Teknik Informatika"
+    },
+    {
+        "nama": "ferdian",
+        "nim": "161011401112",
+        "email": "ferdian@gmail.com",
+        "kelas": "05TPLE001",
+        "jurusan": "Teknik Informatika"
+    },
+    {
+        "nama": "angelica",
+        "nim": "191011450023",
+        "email": "angelica@gmail.com",
+        "kelas": "05TPLE001",
+        "jurusan": "Teknik Informatika"
+    },
+    {
+        "nama": "Dennis eka",
+        "nim": "191011450125",
+        "email": "denniseka@gmail.com",
+        "kelas": "05TPLE001",
+        "jurusan": "Teknik Informatika"
+    }
+    
+]
